@@ -1,1 +1,5 @@
+<<<<<<< MAIN
 this is test 4. modify 2.conflicting contents
+=======
+this is test 4. modify 2. conflicting
+>>>>>>> master
