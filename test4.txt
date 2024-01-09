@@ -1,1 +1,1 @@
-this is test 4. modify 2
+this is test 4. modify 2.conflicting contents
